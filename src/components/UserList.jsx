@@ -75,7 +75,7 @@ const UserList = () => {
       </div>
 
       {message && (
-        <p className="text-green-500 mb-4">
+        <p className="text-green-500 text-center mb-4">
           {message}
           <span className="hidden">
             {setTimeout(() => setMessage(""), 3000)}
