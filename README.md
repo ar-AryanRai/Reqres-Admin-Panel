@@ -14,6 +14,15 @@ Welcome! 👋
 
 ---
 
+## 🛠️ Tech Stack
+- React (Hooks, Router)
+- Axios (HTTP requests)
+- Tailwind CSS (Styling)
+- Reqres API (Mock backend)
+- localStorage (Token persistence)
+
+---
+
 ## ⚙️ Getting Started
 
 ### 1. Clone the repository
@@ -30,11 +39,3 @@ npm run dev
 ### 4. Login Credentials
 Email:    eve.holt@reqres.in
 Password: cityslicka
-
----
-## 🛠️ Tech Stack
-- React (Hooks, Router)
-- Axios (HTTP requests)
-- Tailwind CSS (Styling)
-- Reqres API (Mock backend)
-- localStorage (Token persistence)
