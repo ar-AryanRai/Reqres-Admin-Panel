@@ -1,7 +1,9 @@
-# 🚀 UserDash – A React-Powered User Management App
+# 🚀 Reqres-Admin-Panel – A React-Powered User Management App
 
 Welcome! 👋  
-**UserDash** is a responsive and clean React app that integrates with the [Reqres API](https://reqres.in/) to simulate a real-world user management system.
+**Reqres-Admin-Panel** is a responsive and clean React app that integrates with the [Reqres API](https://reqres.in/) to simulate a real-world user management system.
+
+**Live Link** for the Project: https://reqres-admin-panel.netlify.app/login
 
 ### ✨ Features
 - 🔐 Login with mocked authentication
