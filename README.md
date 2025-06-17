@@ -55,8 +55,17 @@ Password: cityslicka
 git clone https://github.com/your-username/reqres-admin-panel.git
 cd reqres-admin-panel
 ```
+
+- Install Dependencies: 
+```bash
+npm i
+```
+or
+```bash
+npm install
+```
   
 - Run the App:
 ```bash
-run with open server from index.html
+npm run dev
 ```
